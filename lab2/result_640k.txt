@@ -1,0 +1,8 @@
+Matrix size: 800x800 * 800x800 = 800x800 result
+
+Threads: 1 | Time: 5.19257 seconds
+Threads: 2 | Time: 2.59981 seconds
+Threads: 4 | Time: 1.27194 seconds
+Threads: 8 | Time: 0.736594 seconds
+Threads: 16 | Time: 0.472512 seconds
+Threads: 28 | Time: 0.359122 seconds

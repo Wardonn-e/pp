@@ -1,0 +1,8 @@
+Matrix size: 100x100 * 100x100 = 100x100 result
+
+Threads: 1 | Time: 0.0099307 seconds
+Threads: 2 | Time: 0.0051942 seconds
+Threads: 4 | Time: 0.0028865 seconds
+Threads: 8 | Time: 0.0019477 seconds
+Threads: 16 | Time: 0.002134 seconds
+Threads: 28 | Time: 0.001885 seconds

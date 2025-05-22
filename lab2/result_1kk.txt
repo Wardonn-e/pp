@@ -1,0 +1,8 @@
+Matrix size: 1000x1000 * 1000x1000 = 1000x1000 result
+
+Threads: 1 | Time: 10.4293 seconds
+Threads: 2 | Time: 4.97727 seconds
+Threads: 4 | Time: 2.61479 seconds
+Threads: 8 | Time: 1.33728 seconds
+Threads: 16 | Time: 0.985025 seconds
+Threads: 28 | Time: 0.70683 seconds

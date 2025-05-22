@@ -1,0 +1,8 @@
+Matrix size: 500x500 * 500x500 = 500x500 result
+
+Threads: 1 | Time: 1.2336 seconds
+Threads: 2 | Time: 0.617917 seconds
+Threads: 4 | Time: 0.308686 seconds
+Threads: 8 | Time: 0.175002 seconds
+Threads: 16 | Time: 0.129266 seconds
+Threads: 28 | Time: 0.0901347 seconds

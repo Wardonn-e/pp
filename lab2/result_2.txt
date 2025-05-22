@@ -1,0 +1,8 @@
+Matrix size: 2x3 * 3x2 = 2x2 result
+
+Threads: 1 | Time: 1.55e-05 seconds
+Threads: 2 | Time: 8.03e-05 seconds
+Threads: 4 | Time: 0.0001069 seconds
+Threads: 8 | Time: 0.0002864 seconds
+Threads: 16 | Time: 0.0005211 seconds
+Threads: 28 | Time: 0.0016188 seconds

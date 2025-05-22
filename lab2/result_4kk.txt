@@ -1,0 +1,8 @@
+Matrix size: 2000x2000 * 2000x2000 = 2000x2000 result
+
+Threads: 1 | Time: 93.4725 seconds
+Threads: 2 | Time: 44.7425 seconds
+Threads: 4 | Time: 21.0893 seconds
+Threads: 8 | Time: 10.9325 seconds
+Threads: 16 | Time: 8.15425 seconds
+Threads: 28 | Time: 5.79755 seconds
