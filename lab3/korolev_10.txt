@@ -1,0 +1,9 @@
+Matrix size: 2 x 2 | Time: 1.12e-04 seconds
+
+Matrix size: 100 x 100 | Time: 0.00353421 seconds
+
+Matrix size: 500 x 500 | Time: 0.259267 seconds
+
+Matrix size: 1000 x 1000 | Time: 1.9204 seconds
+
+Matrix size: 2000 x 2000 | Time: 15.8229 seconds
